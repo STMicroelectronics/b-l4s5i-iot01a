@@ -30,8 +30,14 @@ Details about the content of this release are available in the release note [her
 Below is the list of the BSP *component* drivers to be used with this BSP *board* driver. It is **crucial** that you use a consistent set of CMSIS - HAL - BSP versions, as mentioned in [this](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/STM32CubeL4/blob/master/Release_Notes.html) release note.
 
 * [stm32-bsp-common](https://github.com/STMicroelectronics/stm32-bsp-common)
-* ...
+* [stm32-hts221](https://github.com/STMicroelectronics/stm32-hts221)
+* [stm32-lis3mdl](https://github.com/STMicroelectronics/stm32-lis3mdl)
+* [stm32-lps22hb](https://github.com/STMicroelectronics/stm32-lps22hb)
+* [stm32-lsm6dsl](https://github.com/STMicroelectronics/stm32-lsm6dsl)
+* [stm32-mx25r6435f](https://github.com/STMicroelectronics/stm32-mx25r6435f)
 
 ## Troubleshooting
 
-Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) guide.
+If you have any issue with the **software content** of this repository, you can file an issue [here](https://github.com/STMicroelectronics/b-l475e-iot01a/issues/new/choose).
+
+For any other question related to the product, the tools, the environment, you can submit a post to the **ST Community** on the appropriate topic [page](https://community.st.com/s/topiccatalog).
